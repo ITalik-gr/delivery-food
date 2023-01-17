@@ -1,8 +1,5 @@
 function timer(id ,deadline) {
-    //? timer
-
-
-
+    //? timers and test github
     function getTimeRemaining(endTime) {
 
       let days, hours, minutes, seconds;

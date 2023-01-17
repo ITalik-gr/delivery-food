@@ -733,10 +733,7 @@ __webpack_require__.r(__webpack_exports__);
 /* harmony export */   "default": () => (__WEBPACK_DEFAULT_EXPORT__)
 /* harmony export */ });
 function timer(id ,deadline) {
-    //? timer
-
-
-
+    //? timers and test github
     function getTimeRemaining(endTime) {
 
       let days, hours, minutes, seconds;
